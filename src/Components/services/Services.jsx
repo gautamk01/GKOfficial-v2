@@ -23,12 +23,10 @@ const boxText = [
 const varients = {
     initial: {
         x: -500,
-        y: 100,
         opacity: 0,
     },
     animate: {
         x: 0,
-        y: 0,
         opacity: 1,
         transition: {
             duration: 1,
